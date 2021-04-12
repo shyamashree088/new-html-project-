@@ -1,0 +1,123 @@
+/* .fas{
+    float: left!important;
+    margin: 30px;
+}
+.far{
+    float: left!important; 
+    margin: 30px;
+} */
+.card-body{
+    background-position: center!important;
+    background-color: transparent!important;
+    
+}
+.banner{
+    background-image: url('../images/mac.jpg')!important;
+    background-size: cover!important;
+    background-position: center center!important;
+    height: 600px;
+    color: #fff;
+}
+.jumbotron{
+    background-color: transparent!important;
+   
+}
+.about{
+    text-align: center;
+    margin: 50px;
+}
+.about-us{
+    padding: 50px;
+}
+.banner-text{
+    padding-top: 200px;
+   
+}
+.banner-icon{
+    padding: 30px;
+}
+/* .right-part{
+    float: right!important;
+}
+.left-part{
+    float: left!important;
+} */
+
+.detail-img{
+    width: 100%;
+}
+.detail-section{
+    padding: 128px 16px 128px 16px;
+    background-color: #f1f1f1!important;
+}
+.team-part{
+    padding: 128px 16px 128px 16px;
+    margin: 25px 0 25px 0;
+
+}
+/* .container{
+    background-color: #616161!important;
+   
+    text-align: center;
+    color: #000;
+    margin: 0 150px 0 150px;
+} */
+.promo-section{
+    background-color: #616161!important;
+    padding: 60px;
+    text-align: center;
+    height: 100%;  
+}
+.promo{
+    color: #fff;
+    font-size: 20px;
+}
+.work-section{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    margin-right: 20px;
+    margin-left: 20px;
+    background-color:  #f1f1f1!important;
+}
+.down-section{
+    margin-top: 25px;
+
+}
+.skill-section{
+    margin: 100px;
+    background-color: ;
+}
+.pricing{
+    text-align: center;
+    margin: 50px;
+    color: #fff;
+}
+.pricing-part{
+    background-color: #616161!important;
+    padding: 40px;
+}
+.Contact{
+    text-align: center;
+    margin: 50px;
+}
+.Contact-part{
+    background-color: #f1f1f1!important;
+    padding: 70px;
+}
+.end-part{
+    padding: 70px;
+    background-color: #000000;
+    text-align: center;
+    color: #ffffff;
+}
+.end{
+    padding: 5px;
+}
+.end :hover{
+    color: #ffffff;
+    text-shadow: 0 0 0 .8em #ffffff,0 0 0.6em #e4e3e3;
+}
+.bold{
+    font-weight: bold;
+}
